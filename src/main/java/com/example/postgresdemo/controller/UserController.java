@@ -34,7 +34,7 @@ public class UserController {
     @Autowired
     UserInstrumentsExperienceRepository userInstrumentsExperienceRepository;
 
-    @Autowired
+    @Autowire
     ExpirienceLevelController expirienceLevelController;
 
 
